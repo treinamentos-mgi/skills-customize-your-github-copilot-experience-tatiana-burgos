@@ -71,6 +71,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-library",
+      "title": "API de Biblioteca com SQLite",
+      "description": "Persistência de livros em SQLite integrada a uma API REST com FastAPI.",
+      "path": "assignments/fastapi-sqlite-library",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
